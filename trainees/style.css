@@ -1,0 +1,54 @@
+
+body{
+    background-color: green;
+}
+li{
+    list-style-type: none;
+}
+nav{
+    background: #000;
+}
+ul{
+    display: inline-flex;
+}
+a{
+    text-decoration: none;
+    padding: 30px;
+    color: white;
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.log{
+    float: right;
+    margin-top: -40px;
+}
+.left{
+   background: #000; 
+   color: white;
+   
+}
+h1{
+    color: white;
+}
+p{
+    color: wheat;
+}
+.middle{
+   
+    text-align: center;
+   
+   
+}
+.image{
+    margin: 5px auto;
+    padding: 2px;
+   
+}
+.right{
+    float: right;
+    margin-top: -300px;
+}
+.middle .kevin{
+    text-align: center;
+    margin-top: -300px;
+}
